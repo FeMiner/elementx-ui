@@ -1,6 +1,6 @@
 {
   "name": "ex-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A advanced e-table component, integrating sort & export & pagination",
   "main": "index.js",
   "author": "FeMiner",
